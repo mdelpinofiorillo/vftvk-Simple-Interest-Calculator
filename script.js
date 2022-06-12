@@ -1,6 +1,6 @@
 function compute() {
     
-
+    //Read principal valu first to subsequently validate if it is a positive number
     var principal = document.getElementById("principal").value;
     
     
