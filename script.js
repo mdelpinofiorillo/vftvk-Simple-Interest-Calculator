@@ -6,7 +6,7 @@ function compute() {
     
     //Validate if value is abouve 0
     if (principal<=0){
-        alert("Plase enter a positive number")
+        alert("Please enter a positive number")
     } else{
     
     //Run if principal value meets criteria
