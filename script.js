@@ -7,6 +7,8 @@ function compute() {
     //Validate if value is abouve 0
     if (principal<=0){
         alert("Please enter a positive number")
+        document.getElementById("principal").focus() //Focus back on Principal value
+
     } else{
     
     //Run if principal value meets criteria
